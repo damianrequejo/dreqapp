@@ -1,4 +1,4 @@
-git remote add origin https://github.com/damianrequejo/dreqapp.gitimport logo from './logo.svg';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
